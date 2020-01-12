@@ -1,6 +1,6 @@
 # mmind
 
-Juego Masterind, el programa selecciona un número de 4 cifras irrepetibles y el usuario debe adivinarlo.
+Juego Mastermind, el programa selecciona un número de 4 cifras irrepetibles y el usuario debe adivinarlo.
 
 Solo se utilizan números, no se pueden utilizar letras ni caracteres especiales.
 
